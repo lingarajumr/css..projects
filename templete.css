@@ -136,7 +136,7 @@ hr{
 .card{
     
     width: 200px;
-    display: inline-block;
+    display:inline-block;
     height: 100px;
     margin-left: 10%;
     height:300px;
@@ -164,7 +164,7 @@ h5{
     
 }
 .card1{
-    display: inline-block;
+    display:inline-block;
     margin-left: 5%;
    
     width: 200px;
